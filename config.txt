@@ -1,6 +1,6 @@
-token=NTIzMjU2MzM1OTIwMjY3Mjc3.DvW7Iw.KRm6SmR6nJ9rqXHUwPVUZ5u33uk
-owner=521341978659651596
-prefix= 3
+token=NTM5ODk0Njc0NTA1MzM0Nzk0.DzJAPw.setbcopP1FEiX9pYaaTpLU7B92M
+owner=408268939181948929
+prefix= Ma
 game=
 stayinchannel=true
 songinstatus=false
