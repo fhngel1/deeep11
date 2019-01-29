@@ -1,4 +1,4 @@
-token=NTM5ODk0Njc0NTA1MzM0Nzk0.DzJAPw.setbcopP1FEiX9pYaaTpLU7B92M
+token=NTM5ODk1NTgwODk0MTY3MDQx.DzJDqg.Fxyr4oBisEFrwOekMHgYJb9ACl8
 owner=408268939181948929
 prefix= Ma
 game=
